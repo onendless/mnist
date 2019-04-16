@@ -1,0 +1,3 @@
+/home/onendless/python/project/minist/build/CMakeFiles/edit_cache.dir
+/home/onendless/python/project/minist/build/CMakeFiles/rebuild_cache.dir
+/home/onendless/python/project/minist/build/CMakeFiles/preprocess.dir

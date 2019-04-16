@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(preprocess)
+find_package( OpenCV REQUIRED )
+add_executable(preprocess preprocess.cpp )
+target_link_libraries(preprocess ${OpenCV_LIBS} )
